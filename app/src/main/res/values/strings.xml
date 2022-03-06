@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UCC Portal</string>
+    <string name="academic_desc">Academic</string>
+    <string name="academic">Academic</string>
+    <string name="finance">Finance</string>
+    <string name="survey">Survey</string>
+    <string name="faq">faq</string>
+    <string name="login">Login</string>
+    <string name="enter_student_id">Enter Student\'s ID</string>
+    <string name="password">Enter your password</string>
+</resources>
